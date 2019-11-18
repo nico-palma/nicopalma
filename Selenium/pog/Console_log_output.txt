@@ -1,0 +1,130 @@
+Starting ChromeDriver 76.0.3809.126 (d80a294506b4c9d18015e755cee48f953ddc3f2f-refs/branch-heads/3809@{#1024}) on port 20588
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1569849570.431][WARNING]: This version of ChromeDriver has not been tested with Chrome version 77.
+set 30, 2019 10:19:31 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMAÇÕES: Detected dialect: W3C
+set 30, 2019 10:19:47 AM estudo.selenium.pog.AlterarTipoCampanha Teste1
+INFORMAÇÕES: Teste Cadastrar Parâmetros - Motivo Manutenção
+
+linha 1 do excel
+22/01/2022
+22/01/2022
+SeleniumExcel
+set 30, 2019 10:19:54 AM estudo.selenium.pog.AlterarTipoCampanha Teste1
+INFORMAÇÕES: Inclusão realizada com sucesso! 
+
+Starting ChromeDriver 76.0.3809.126 (d80a294506b4c9d18015e755cee48f953ddc3f2f-refs/branch-heads/3809@{#1024}) on port 37157
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1569849597.552][WARNING]: This version of ChromeDriver has not been tested with Chrome version 77.
+set 30, 2019 10:19:58 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMAÇÕES: Detected dialect: W3C
+set 30, 2019 10:20:39 AM estudo.selenium.pog.AlterarTipoCampanha Teste1
+INFORMAÇÕES: Alteração realizada com sucesso! 
+
+set 30, 2019 10:20:51 AM estudo.selenium.pog.AlterarTipoCampanha Teste1
+INFORMAÇÕES: Cancelamento realizado com sucesso!
+
+set 30, 2019 10:20:58 AM estudo.selenium.pog.AlterarTipoCampanha Teste1
+INFORMAÇÕES: Teste com o parâmetro linha 1 do excel realizado com sucesso!
+
+Starting ChromeDriver 76.0.3809.126 (d80a294506b4c9d18015e755cee48f953ddc3f2f-refs/branch-heads/3809@{#1024}) on port 30396
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1569849660.260][WARNING]: This version of ChromeDriver has not been tested with Chrome version 77.
+set 30, 2019 10:21:01 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMAÇÕES: Detected dialect: W3C
+linha 2 do excel
+22/02/2022
+22/02/2022
+set 30, 2019 10:21:16 AM estudo.selenium.pog.AlterarTipoCampanha Teste1
+INFORMAÇÕES: Teste Cadastrar Parâmetros - Motivo Manutenção
+
+SeleniumExcel
+set 30, 2019 10:21:37 AM estudo.selenium.pog.AlterarTipoCampanha Teste1
+INFORMAÇÕES: Inclusão realizada com sucesso! 
+
+Starting ChromeDriver 76.0.3809.126 (d80a294506b4c9d18015e755cee48f953ddc3f2f-refs/branch-heads/3809@{#1024}) on port 1277
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1569849703.230][WARNING]: This version of ChromeDriver has not been tested with Chrome version 77.
+set 30, 2019 10:21:44 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMAÇÕES: Detected dialect: W3C
+set 30, 2019 10:22:27 AM estudo.selenium.pog.AlterarTipoCampanha Teste1
+INFORMAÇÕES: Alteração realizada com sucesso! 
+
+set 30, 2019 10:22:39 AM estudo.selenium.pog.AlterarTipoCampanha Teste1
+INFORMAÇÕES: Cancelamento realizado com sucesso!
+
+set 30, 2019 10:22:46 AM estudo.selenium.pog.AlterarTipoCampanha Teste1
+INFORMAÇÕES: Teste com o parâmetro linha 2 do excel realizado com sucesso!
+
+Starting ChromeDriver 76.0.3809.126 (d80a294506b4c9d18015e755cee48f953ddc3f2f-refs/branch-heads/3809@{#1024}) on port 15034
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1569849771.182][WARNING]: This version of ChromeDriver has not been tested with Chrome version 77.
+set 30, 2019 10:22:52 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMAÇÕES: Detected dialect: W3C
+linha 3 do excel
+22/03/2022
+22/03/2022
+SeleniumExcel
+set 30, 2019 10:23:07 AM estudo.selenium.pog.AlterarTipoCampanha Teste1
+INFORMAÇÕES: Teste Cadastrar Parâmetros - Motivo Manutenção
+
+set 30, 2019 10:23:28 AM estudo.selenium.pog.AlterarTipoCampanha Teste1
+INFORMAÇÕES: Inclusão realizada com sucesso! 
+
+Starting ChromeDriver 76.0.3809.126 (d80a294506b4c9d18015e755cee48f953ddc3f2f-refs/branch-heads/3809@{#1024}) on port 44951
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1569849811.969][WARNING]: This version of ChromeDriver has not been tested with Chrome version 77.
+set 30, 2019 10:23:33 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMAÇÕES: Detected dialect: W3C
+set 30, 2019 10:24:14 AM estudo.selenium.pog.AlterarTipoCampanha Teste1
+INFORMAÇÕES: Alteração realizada com sucesso! 
+
+set 30, 2019 10:24:26 AM estudo.selenium.pog.AlterarTipoCampanha Teste1
+INFORMAÇÕES: Cancelamento realizado com sucesso!
+
+set 30, 2019 10:24:33 AM estudo.selenium.pog.AlterarTipoCampanha Teste1
+INFORMAÇÕES: Teste com o parâmetro linha 3 do excel realizado com sucesso!
+
+Starting ChromeDriver 76.0.3809.126 (d80a294506b4c9d18015e755cee48f953ddc3f2f-refs/branch-heads/3809@{#1024}) on port 19249
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1569849875.926][WARNING]: This version of ChromeDriver has not been tested with Chrome version 77.
+set 30, 2019 10:24:37 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMAÇÕES: Detected dialect: W3C
+linha 4 do excel
+22/04/2022
+22/04/2022
+SeleniumExcel
+set 30, 2019 10:24:51 AM estudo.selenium.pog.AlterarTipoCampanha Teste1
+INFORMAÇÕES: Teste Cadastrar Parâmetros - Motivo Manutenção
+
+set 30, 2019 10:25:13 AM estudo.selenium.pog.AlterarTipoCampanha Teste1
+INFORMAÇÕES: Inclusão realizada com sucesso! 
+
+Starting ChromeDriver 76.0.3809.126 (d80a294506b4c9d18015e755cee48f953ddc3f2f-refs/branch-heads/3809@{#1024}) on port 38696
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1569849918.645][WARNING]: This version of ChromeDriver has not been tested with Chrome version 77.
+set 30, 2019 10:25:19 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMAÇÕES: Detected dialect: W3C
+set 30, 2019 10:26:03 AM estudo.selenium.pog.AlterarTipoCampanha Teste1
+INFORMAÇÕES: Alteração realizada com sucesso! 
+
+set 30, 2019 10:26:16 AM estudo.selenium.pog.AlterarTipoCampanha Teste1
+INFORMAÇÕES: Cancelamento realizado com sucesso!
+
+set 30, 2019 10:26:22 AM estudo.selenium.pog.AlterarTipoCampanha Teste1
+INFORMAÇÕES: Teste com o parâmetro linha 4 do excel realizado com sucesso!
+
+Starting ChromeDriver 76.0.3809.126 (d80a294506b4c9d18015e755cee48f953ddc3f2f-refs/branch-heads/3809@{#1024}) on port 38755
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1569849987.595][WARNING]: This version of ChromeDriver has not been tested with Chrome version 77.
+set 30, 2019 10:26:28 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMAÇÕES: Detected dialect: W3C
